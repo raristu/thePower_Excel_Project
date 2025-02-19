@@ -23,4 +23,21 @@
 
   All you need is Microsoft Excel installed on your laptop.
 
-## Results and Conclusions: 
+## 📊 Results and Conclusions: 
+
+  - 🥇 Hell's Kitchen location is the store with bigger revenue.
+    ![image](https://github.com/user-attachments/assets/1d9baae3-6ffa-4027-9099-c7693051dd5c)
+  - Brewed Chai tea is always in the top 3 products in the three stores.
+  - The hours with more transactions are in the morning, between 7:00 and 11:00.
+    ![image](https://github.com/user-attachments/assets/b7c23c56-316a-4698-960f-9aa52825f99e)
+  - Transactions between 19:00 and 21:00 in the Lower Manhattan store are very low. Management could consider closing this store around 19:00 to reduce costs 💸.
+
+## Contributions: 🤝 contributions are welcome!
+
+## Author:
+
+  - Raúl Aristu
+  - @raristu (https://github.com/raristu)
+
+
+
