@@ -25,6 +25,22 @@
 
 ## 📊 Results and Conclusions: 
 
+The raw data file contains 11 columns with the following information:
+   -  transaction_id: Unique sequential ID representing an individual transaction
+   -  transaction_date: Date of the transaction (MM/DD/YY)
+   -  transaction_time: Timestamp of the transaction (HH:MM:SS)
+   -  transaction_qty: Quantity of items sold
+   -  store_id: Unique ID of the coffee shop where the transaction took place
+   -  store_location: Location of the coffee shop where the transaction took place
+   -  product_id: Unique ID of the product sold
+   -  unit_price: Retail price of the product sold
+   -  product_category: Description of the product category
+   -  product_type: Description of the product type
+   -  product_detail: Description of the product detail
+
+
+These are the main conclusions from the analysis:
+
   - 🥇 Hell's Kitchen location is the store with bigger revenue.
     ![image](https://github.com/user-attachments/assets/1d9baae3-6ffa-4027-9099-c7693051dd5c)
   - Brewed Chai tea is always in the top 3 products in the three stores.
