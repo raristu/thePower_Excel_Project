@@ -1,4 +1,4 @@
-# 📊 Sales analysis of Maven Roasters, a fictitious Coffe Shop operating out of three New York City locations.
+# 📊 Sales analysis of Maven Roasters, a fictitious Coffee Shop operating out of three New York City locations.
 
 ## Description:
 
