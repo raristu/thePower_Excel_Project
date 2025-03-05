@@ -16,7 +16,7 @@
 
     1. README.md file: Project description
     2. Coffee Shop Sales.xlsx: raw data
-    3. URL.txt: URL link to raw data
+    3. URL.txt: https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip
     4. Coffe Shop Sales - Dashboard: Excel file in which I made all the transformations needed to develop the final Dashboard
 
 ## Installation and Requirements:
